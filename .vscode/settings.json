@@ -60,6 +60,7 @@
     "stdio.h": "c",
     "chrono": "c",
     "random": "c",
-    "limits": "c"
+    "limits": "c",
+    "algorithm": "c"
   }
 }
